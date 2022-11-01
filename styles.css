@@ -23,7 +23,7 @@ body {
     -webkit-background-size: cover;
 }
 
-@media only screen and (max-width: 959px) {
+@media screen and (max-width: 1079px) {
     body:before {
         content: “”;
         background-image: url(img/library.jpg);
